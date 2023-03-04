@@ -1,5 +1,5 @@
 Hi there, I'm G Divya! 👋
-I'm a second-year B.Tech student in Computer Science and Engineering at [University Name]. I'm passionate about Artificial Intelligence and Machine Learning and aspire to work in the field of Blockchain technology.
+I'm a second-year B.Tech student in Computer Science and Engineering at KIIT. I'm passionate about Artificial Intelligence and Machine Learning and aspire to work in the field of Blockchain technology.
 
 🌱 What I'm currently learning
 
