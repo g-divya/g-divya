@@ -1,3 +1,2 @@
-Tech Enthusiast with a keen interest in technology and AI-driven applications.
-Experienced in computer vision, NLP, machine learning, and backend development.
-Former NVIDIA intern and Google WE Scholar.
+Tech Enthusiast with an interest in technology and AI-driven applications.
+Basic Experience in computer vision, NLP, machine learning, and backend python development.
